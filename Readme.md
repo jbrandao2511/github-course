@@ -1,4 +1,4 @@
-#Curso Git e  Github
+Curso Git e  Github
 
 Este arquivo contém procedimentos no curso de Git e Github.
 
