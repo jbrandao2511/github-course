@@ -6,4 +6,4 @@ Arquivo editado na posição stage
 
 Editado apos commit
 
-Gstou do curso? Quer mais? Ajude com uma doação é valido!! =)
+Gostou do curso? Quer mais? Ajude com uma doação é valido!! =)
