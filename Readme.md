@@ -1,9 +1,7 @@
-#Meu primeiro Repositório Github
+#Curso Git e  Github
 
-Arquivo da aula de Git e Github
+Este arquivo contém procedimentos no curso de Git e Github.
 
-Arquivo editado na posição stage
-
-Editado apos commit
+Testando processos de reset git clone entre outros...
 
 Gostou do curso? Quer mais? Ajude com uma doação é valido!! =)
